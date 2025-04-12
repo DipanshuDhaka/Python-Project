@@ -20,9 +20,7 @@ This project performs a detailed exploratory data analysis (EDA) on a landslide 
   - Economic loss
 
 > ✅ All visualizations display automatically in sequence with fallback (dummy) data generated for missing columns.
-
 ---
-
 ## 🧠 Technologies Used
 
 - Python 3.x
